@@ -1,0 +1,22 @@
+{
+  "name": "postcss-deprefixer",
+  "version": "1.0.0",
+  "description": "strips extra prefixes out of sass code that already tries to prefix things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Filmbot/postcss-deprefixer.git"
+  },
+  "author": "sbussetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Filmbot/postcss-deprefixer/issues"
+  },
+  "homepage": "https://github.com/Filmbot/postcss-deprefixer#readme",
+  "dependencies": {
+    "postcss": "^5.2.12"
+  }
+}
