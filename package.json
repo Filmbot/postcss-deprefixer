@@ -1,6 +1,6 @@
 {
   "name": "postcss-deprefixer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "strips extra prefixes out of sass code that already tries to prefix things",
   "main": "index.js",
   "scripts": {
